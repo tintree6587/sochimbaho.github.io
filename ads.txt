@@ -1,1 +1,2 @@
 google.com, pub-9732327571864607, DIRECT, f08c47fec0942fa0
+# Updated for GitHub Pages sync
