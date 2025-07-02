@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sochimbaho.com/sitemap.xml
+Sitemap: https://sitemap.sochimbaho.com/sitemap.xml
+
